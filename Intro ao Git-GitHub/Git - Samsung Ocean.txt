@@ -1,0 +1,43 @@
+﻿Git - Samsung Ocean   (Prof. Danilo Miguel)
+
+
+
+
+git config --global user.name "bcesar2002"
+git config --list    (ver configurações)
+
+
+:q (para sair)
+
+
+git branch (lista as branches)
+
+
+git checkout -b <nome da branch>  (para criar uma branch)
+
+
+git checkout <nome da branch>  (vai para uma branch)
+
+
+git branch -d branch_test (apaga uma branch)
+
+
+git restore <nome arquivo>  (discarta alterações no arq. no working directory)
+
+
+git diff <nome arquivo> (exibe as alterações no arq.)
+
+
+git add <nome arquivo> (adiciona o arq na staging area)
+
+
+git commit -m "incluído o nome Bruno"  (grava as alterações no repositório local)
+
+
+git remote add upstream https://github.com/Danilo-Miguel/exec1.git (criar uma upstream)
+
+
+git pull upstream main
+
+
+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  (token)

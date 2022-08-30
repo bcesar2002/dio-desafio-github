@@ -1,0 +1,49 @@
+﻿CS50url> Web Programming with Python and JavaScrit (Edx)
+
+
+GIT
+
+
+- Para criar um novo repositório no GitHub:
+        - Acessar: github.com/new
+        - Digitar um nome para o repositório
+        - Clicar em “Create repository”.
+
+
+- Para clonar um repositório existente: git clone <url>  (Ex.: “https://github.com/bcesar2002/AppBase.git”)
+
+
+- Para colocar um arquivo na staging area: git add <file>
+- Para descartar mudanças: git checkout -- <file> ….
+
+
+- Para comitar git commit -m “message”  (se usar “-am” todos arquivos serão comitados)
+
+
+- Ver o status atual: git status
+
+
+- Para atualizar o repositório remoto: git push 
+
+
+- Para atualizar o repositório local: git pull 
+
+
+- git log 
+- git reset --hard <commit hash>
+- git reset --hard origin/master
+
+
+- git branch (mostrar a branch atual, isto é, qual é a HEAD, e as outras branches existentes)
+
+
+- git checkout -b <new branch name> (cria uma nova branch)
+- git checkout <branch name> (aponta para a branch informada)
+
+
+- git merge <branch> (juntar uma branch ao master ou à branch atual)
+
+
+
+
+*** Para ter uma GitHug page, crie um repositório com o nome “bcesar2002.github.io”
