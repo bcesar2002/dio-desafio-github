@@ -1,4 +1,4 @@
-# Desafio de Projeto sobre Git/Gitub da DIO
+# Desafios de Projeto do bootcamp Database Experience da DIO
 Repositório criado para o Desafio de Projeto sobre Git/GitHub
 
 ## Links úteis:
