@@ -1,4 +1,4 @@
-# Descrição do Desafio 2 - Projojeto Conceitual de uma oficina mecânica
+# Descrição do Desafio 2 - Projeto Conceitual de uma oficina mecânica
 
 <p>O esquema deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto conceitual para fornecer o contexto sobre seu esquema.</p>
 
